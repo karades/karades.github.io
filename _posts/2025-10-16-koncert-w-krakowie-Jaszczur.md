@@ -12,7 +12,7 @@ Był to mój pierwszy występ z nowymi aranżacjami utworów z [nazwa-albumu], a
 
 ## Co działo się na scenie?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MpH7TS3JgI8?si=0GwOJ2sa3pELz5Jo&amp;start=275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MpH7TS3JgI8?si=0GwOJ2sa3pELz5Jo&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Lista utworów obejmowała zarówno moje starsze, jak i zupełnie nowe piosenki:
 * "Sen" (Acoustic Version)

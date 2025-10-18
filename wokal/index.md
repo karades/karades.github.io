@@ -12,7 +12,6 @@ Tutaj znajdziesz próbki mojego głosu.
 Poniżej znajdziesz listę wszystkich moich wpisów.
 
 {% for post in site.categories.wokal %}
-{% for post in site.categories.wokal %}
 <div class="post-listing">
 <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>

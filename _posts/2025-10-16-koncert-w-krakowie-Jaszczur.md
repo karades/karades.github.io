@@ -2,7 +2,7 @@
 layout: post
 title: Wyjątkowy koncert w Krakowie!
 author: [Twoje Imię]
-date: 2025-10-18 20:00:00 +0200
+date: 2025-10-16 20:00:00 +0200
 categories: [wokal, koncerty, krakow]
 ---
 

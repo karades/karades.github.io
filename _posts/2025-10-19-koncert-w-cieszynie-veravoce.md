@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jestem bo JESTEŚ – Koncert Finałowy VeraVoce w Cieszynie!
+title: Jestem bo JESTEŚ – Koncert VeraVoce w Cieszynie!
 author: Marcin Konopacki 
 date: 2025-10-19 18:00:00 +1200
 categories: [wokal, zespol, veravoce, cieszyn]

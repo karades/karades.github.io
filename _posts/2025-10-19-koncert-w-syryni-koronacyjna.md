@@ -35,4 +35,5 @@ Lista solistów, którzy uświetnili to wykonanie:
 * **Wprowadzenie Muzyczne:** prof. Jan Ballarin oraz ks. prof. Antoni Reginek
 
 ![Soliści i chór]( {{ '/images/20251019_Syrynia_Koronacyjna.jpg' | relative_url }} )
+Źródło: facebook.com/goksirlubomia
 

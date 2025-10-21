@@ -1,3 +1,4 @@
+---
 layout: post
 title: Jestem bo JESTEŚ – Koncert Finałowy VeraVoce w Cieszynie!
 author: Marcin Konopacki 

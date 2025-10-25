@@ -16,7 +16,7 @@ Rusza kolejny sezon cyklu **„Klasycznie Nieklasycznie”** i miałem przyjemno
 * **MARCIN KONOPACKI** - bas-baryton
 * **EMILIA JURAS** - mezzosopran
 * **MAGDALENA DEPTUŁA** - sopran
-* **MACIEJ WAWRZYNEKI** - kontratenor
+* **MACIEJ WAWRZYNEK** - kontratenor
 * **YINGHAN ZHANG** - piano
 * **Écru kwartet**
 

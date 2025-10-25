@@ -20,3 +20,5 @@ Mam ogromną przyjemność ogłosić, że wraz z zespołem **VeraVoce** wystąpi
 * **Data:** 19 października 2025 (niedziela)
 * **Godzina:** 18:00
 * **Miejsce:** Kościół Świętej Trójcy, Cieszyn
+
+{% include youtube.html id="HqqyXKu4L8U" %}

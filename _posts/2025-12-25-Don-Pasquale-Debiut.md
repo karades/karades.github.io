@@ -18,3 +18,5 @@ categories: [wokal]
 ![Don Pasquale]( {{ '/images/20251225_Don_Pasquale_01.jpg' | relative_url }}) 
 ![Don Pasquale]( {{ '/images/20251225_Don_Pasquale_02.jpg' | relative_url }})
 ![Don Pasquale]( {{ '/images/20251225_Don_Pasquale_03.jpg' | relative_url }}) 
+
+Fot. @ajvovk
